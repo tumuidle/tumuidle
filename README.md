@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Owner of Minecraft Hacks dotSKID
+
+**Languages**: Java, Kotlin, Python, C#
