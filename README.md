@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![dotSKID](https://img.shields.io/badge/.SKID-Owner-F00059)
+![树枝666](https://img.shields.io/badge/鸡你太美-唱跳Rap篮球-114514)
+![Game](https://img.shields.io/badge/Game-Minecraft-00AB00)
 
 Owner of Minecraft Hacks dotSKID, skid source codes from other client with it :)
 
