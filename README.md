@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Owner of Minecraft Hacks dotSKID
+Owner of Minecraft Hacks dotSKID, skid source codes from other client with it :)
 
 **Languages**: Java, Kotlin, Python, C#
