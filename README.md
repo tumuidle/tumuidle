@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://space.bilibili.com/434219171"><img height=32 width=32 src="https://cdn.simpleicons.org/bilibili"></a>
-<a href="https://twitter.com/afn_h3xadecimal"><img height=32 width=32 src="https://cdn.simpleicons.org/x/FFFFFF"></a>
+<a href="https://twitter.com/afn_h3xadecimal"><img height=32 width=32 src="https://cdn.simpleicons.org/twitter"></a>
 
 ![dotSKID](https://img.shields.io/badge/.SKID-Owner-F00059)
 ![树枝666](https://img.shields.io/badge/鸡你太美-唱跳Rap篮球-114514)
