@@ -31,5 +31,5 @@ Owner of Minecraft Hacks dotSKID, skid source codes from other client with it :)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tumuidle&locale=cn&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![H3xadecimal](https://count.getloli.com/get/@H3xadecimal?theme=moebooru)](#)
+[![H3xadecimal](https://count.getloli.com/get/@H3xadecimal?theme=rule34)](https://github.com/journey-ad/Moe-Counter)
 
