@@ -6,6 +6,6 @@ Modrinth: [H3xadecimal](https://modrinth.com/user/H3xadecimal)
 
 **Languages**: Java, Kotlin, Python
 
-[![H3xadecimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tumuidle&count_private=true&locale=cn&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![H3xadecimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyklone4096&count_private=true&locale=cn&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tumuidle&locale=cn&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyjkibe4096&locale=cn&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
